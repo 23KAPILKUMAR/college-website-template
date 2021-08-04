@@ -51,6 +51,16 @@
 
       padding: 35px;
    }
+   .course-col p{
+
+      padding: 20px;
+      box-sizing: border-box;
+
+   }
+
+   .about-col{
+      text-align: justify;
+   }
    /* ....................facilities............... */
 
    .facilities{
@@ -64,6 +74,12 @@
 
       margin-left: 0px;
       margin-right: 15px;
+   }
+   .testimonials-col div p{
+
+      padding-right:10px;
+      text-align:left;
+      
    }
 
 /* ....................footer............... */
